@@ -1,6 +1,6 @@
 # **kottans-frontend course**
 
-## <details><summary>About me</summary>
+<details><summary>About me</summary>
 <p>
 I'm 37 y.o. Cat that working on some positive changes in my life. I have 2 y.o. daughter that "helps" me all the time, but I'll do my best to secseed (:
 </p>
@@ -19,5 +19,7 @@ And funny thing that amazed me is that you can(and obviously should) use “comm
 * **Study specific parts learngitbranching.js.org:**
 <p>Oh! That was a fight! I don't know for sure, but I guess in <b>logic</b> this two solutions are equal, but only second counts as correct. Anyway, I got that!</p>
 
-![Local commit first](https://github.com/lometari/kottans-frontend/raw/master/img/0/local_first.jpg)
-![Remote commit first(right one)](https://github.com/lometari/kottans-frontend/raw/master/img/0/remote_first.jpg)
+ <img src="https://github.com/lometari/kottans-frontend/raw/master/img/0/local_first.jpg" width="52%" height="50%">
+ <img src="https://github.com/lometari/kottans-frontend/raw/master/img/0/remote_first.jpg" width="47%" height="50%">
+
+
