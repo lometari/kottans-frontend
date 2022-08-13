@@ -18,8 +18,9 @@ And funny thing that amazed me is that you can(and obviously should) use “comm
 
 * **Study specific parts learngitbranching.js.org:**
 <p>Oh! That was a fight! I don't know for sure, but I guess in <b>logic</b> this two solutions are equal, but only second counts as correct. Anyway, I got that!</p>
-
- <img src="https://github.com/lometari/kottans-frontend/raw/master/img/0/local_first.jpg" width="52%" height="50%">
+<details><summary>Look for details</summary>
+ <img src="https://github.com/lometari/kottans-frontend/raw/master/img/0/local_first.jpg" width="49%" height="50%">
  <img src="https://github.com/lometari/kottans-frontend/raw/master/img/0/remote_first.jpg" width="47%" height="50%">
+ </details>
 
 
