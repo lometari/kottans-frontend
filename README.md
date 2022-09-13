@@ -7,13 +7,12 @@ I'm 36 y.o. Cat that working on some positive changes in my life. I have 2 y.o. 
 </details>
 
 ## **Git Basics**
----
 
 * **Introduction to Git and GitHub (1 & 2 Week)**
 
   I had fragmentary knowledge about Git and very basic understanding how it works(I’m talking about fetch, merge, clone, pull, push, checkout, commit, add, status(all almost without fags) in most perfect situation when nothing goes wrong xD) so it wasn’t hard to understand the thing. But I got plenty new useful info about undoing actions in different work stages.
 
-  And funny thing that amazed me is that you can(and obviously should) use “commit” command just like that, not “commit -m “some ugly message that jumps to another line, cause its to long” 
+  And funny thing that amazed me is that you can(and obviously should) use “commit” command just like that, not “commit -m “some ugly message that jumps to another line, cause its to long”” 
 
 * **Study specific parts learngitbranching.js.org:**
 
@@ -26,13 +25,12 @@ I'm 36 y.o. Cat that working on some positive changes in my life. I have 2 y.o. 
  </details>
 
 ## **Linux CLI, and HTTP**
----
 
 * ***What I found new***? 60% оf CLI commands was new to me so it's a quite peace of information I got there! =)
 
-* ***Interesting?*** Don't know why, but when I heard **TCP/IP** I always thought the last "IP" was for IP-address. Sure! It's obvious! Why you would think different?))) But it happens **IP** is for **Internet Protocol**
+* ***Interesting?*** Don't know why, but when I heard **TCP/IP** I always thought the last "IP" was for IP-address. Sure! It's obvious! Why you would think different?))) But it happens **IP** stands for **Internet Protocol**
 
-* ***What I will use in future?*** I hope everithing! :) No jokes, it's very important to know, even superficially, to know how the network works. CLI commands already in use with Git Bash.
+* ***What I will use in future?*** I hope everything! :) No jokes, it's very important to know, even superficially, to know how the network works. CLI commands already in use with Git Bash.
 
 <details><summary>Linux Survival (modules results)</summary>
 
@@ -44,9 +42,8 @@ I'm 36 y.o. Cat that working on some positive changes in my life. I have 2 y.o. 
  </details>
 
 ## **Git Collaboration**
----
 
-* ***What I found new?*** Almost everithing beyond dasic add, commit, push, pull and fetch was new. 
+* ***What I found new?*** Almost everything beyond basic add, commit, push, pull and fetch was new. 
 
 * ***What's interesting?*** Was very interesting to work in sandbox, 'cause there is a possibility to test command(even not related to current task) and see visually how it would unfold.
 
@@ -65,7 +62,6 @@ I'm 36 y.o. Cat that working on some positive changes in my life. I have 2 y.o. 
 </details>
 
 ## **Intro to HTML and CSS**
----
 
 * ***What I found new?*** Never heard before about possibility to set opacity value inside hexadecimal color description **#52BC8280** 
 
@@ -87,4 +83,23 @@ It's so basics I guess "all" will be the answer.
 ![CodeAcademy HTML & CSS](./task_html_css_intro/CSS_HTML_CodeAcademy.jpg)
 ![Week 1 Coursera](./task_html_css_intro/Coursera_CSS_HTML_Week1.jpg)
 ![Week 2 Coursera](./task_html_css_intro/Coursera_CSS_HTML_Week2.jpg)
+</details>
+
+## **Responsive Web Design**
+* ***What I found new?*** 
+That was enlightenment how you can use flex to build up basic page structure just with few code lines! And here you go: footer always pinned down!
+
+* ***What's interesting?***
+All that info about Grid Layout was very interesting. I guess I need some more time and practice to have it all set in my mind.
+
+  The games were most fun way of learn & practice!
+
+* ***What I will use in future?***
+
+  Looking forward for use grid layout somewhere! xD
+
+<details><summary>Flex & Grid games (results)</summary>
+
+![Flex Game](./task_responsive_web_design/flex-game.jpg)
+![Greed Game](./task_responsive_web_design/grid-game.jpg)
 </details>
